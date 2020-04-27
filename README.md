@@ -1,13 +1,13 @@
 # My-Data-Science-Curriculum
 The path I have taken towards Data Science. 
 
-#Context: My Starting Point
+# Context: My Starting Point
 
 a.) I knew how to work with data from a statistical framework due to my energy engineering background at Penn State.
 b.) I had a keen eye for business operations due to my entrepreneurship studies in college and Silicon Valley.
 c.) My programming skills were my weakest link at this point, having used C# for an introductory course in college and some MatLab.
 
-My Data Science Curriculum: 1,100+ tracked hours							
+# My Data Science Curriculum: 1,100+ tracked hours							
           (updated March.10.2020)
 
 
