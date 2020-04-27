@@ -20,19 +20,19 @@ In chronological order, Completed:
 ###### 2.	Head First Python – Book				                              (Feb – April 2019)
          Data Structures, Functions & Modules, Web-apps, Databases, APIs, OOP, Decorators, Exceptions.
 ###### 3.	Python for Data Science and Machine Learning Bootcamp – Udemy                             (April – July 2019)
-Jupyter, Linear and Logistic Regression, KNN, Decision Trees, Random Forests, SVMs, K-Means Clustering, PCA, Recommender Systems, Natural Language Processing, Big Data, Neural Nets.
+          Jupyter, Linear and Logistic Regression, KNN, Decision Trees, Random Forests, SVMs, K-Means Clustering, PCA, Recommender Systems, Natural Language Processing, Big Data, Neural Nets.
 ###### 4.	Introduction to Statistical Learning with applications in R – Book		          (May – July 2019)
          The mathematics behind Supervised and Unsupervised Machine Learning Methods.
 ###### 5.	Google’s Intro to Tensorflow for Deep Learning – Udacity			          (July – Sept 2019)
-Google Colab, Neural Networks, Regression, Classification, Dropout, Early Stopping, CNNs, Padding, Max Pooling, Data Augmentation, Transfer Learning, Computer Vision. 
+          Google Colab, Neural Networks, Regression, Classification, Dropout, Early Stopping, CNNs, Padding, Max Pooling, Data Augmentation, Transfer Learning, Computer Vision. 
 ###### 6.	Intro to Reinforcement Learning: AWS DeepRacer – Scholarship – Udacity 	          (Sept – Oct 2019)
-Trained a Reinforcement Learning robocar agent with Sagemaker on a simulated environment in AWS Robomaker. Stored the model’s experience on AWS Redis with the trained models on AWS S3. 
+          Trained a Reinforcement Learning robocar agent with Sagemaker on a simulated environment in AWS Robomaker. Stored the model’s experience on AWS Redis with the trained models on AWS S3. 
 ###### 7.	Intro to Deep Learning with Pytorch - Scholarship Challenge - Udacity. 	          (Nov – March 2020)
-MLPs, CNNs: Image Recognition & Style Transfer. RNN LSTMs: Text Generation & Sentiment Analysis.
+          MLPs, CNNs: Image Recognition & Style Transfer. RNN LSTMs: Text Generation & Sentiment Analysis.
 
-##Currently working on:
-##### 1.	Interactive Python Dashboards with Plotly and Dash. – Udemy
-Building and deployment of interactive dashboards to a web-app on Heroku.
+## Currently working on:
+###### 1.	Interactive Python Dashboards with Plotly and Dash. – Udemy
+          Building and deployment of interactive dashboards to a web-app on Heroku.
 ###### 2.	Hands-On Machine Learning with sk-learn, Keras and Tensorflow - Book
 ###### 3.	The Data Science Course 2020: Complete Data Science Bootcamp  – Udemy
-In depth Mathematics, Statistics, and Business cases for Deep Learning. Tableau & Statsmodels.
+          In depth Mathematics, Statistics, and Business cases for Deep Learning. Tableau & Statsmodels.
