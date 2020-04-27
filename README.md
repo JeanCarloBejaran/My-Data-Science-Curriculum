@@ -11,7 +11,7 @@ The path I have taken towards Data Science.
 
 
 # My Data Science Curriculum: 0 to 1,250+ tracked hours							
-                                                     (updated March.10.2020)
+                                                     (updated April.26.2020)
 
 
 In chronological order, completed: 					
