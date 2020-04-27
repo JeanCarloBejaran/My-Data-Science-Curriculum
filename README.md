@@ -11,7 +11,7 @@ c.) My programming skills were my weakest link at this point, having used C# for
 
 
 # My Data Science Curriculum: 1,100+ tracked hours							
-          (updated March.10.2020)
+                                                     (updated March.10.2020)
 
 
 In chronological order, Completed: 					
