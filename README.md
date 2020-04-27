@@ -14,7 +14,7 @@ c.) My programming skills were my weakest link at this point, having used C# for
                                                      (updated March.10.2020)
 
 
-In chronological order, Completed: 					
+In chronological order, completed: 					
 #### 1.	Introduction to Computer Science - Harvard’s CS50 on edX.			          (Jan – April 2019) 
          C, Python, SQL, and JavaScript plus CSS and HTML
 #### 2.	Head First Python – Book				                              (Feb – April 2019)
