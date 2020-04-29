@@ -29,13 +29,13 @@ In chronological order, completed:
           Trained a Reinforcement Learning robocar agent with Sagemaker on a simulated environment in AWS Robomaker. Stored the model’s experience on AWS Redis with the trained models on AWS S3. 
 #### 7.	Intro to Deep Learning with Pytorch - Scholarship Challenge - Udacity. 	          (Nov – March 2020)
           MLPs, CNNs: Image Recognition & Style Transfer. RNN LSTMs: Text Generation & Sentiment Analysis.
-#### 8. Web Scraping and API Fundamentals in Python
-          Requests, BeautifulSoup, requests-html.
-#### 9. Git and Github
-          Working knowledge and intuition.
-#### 10. SQL + Tableau
+#### 8. SQL + Tableau - 365 Data Science (March 2020)
           Familiarity with SQL and Tableau pro linking for visualizing data. 
-#### 11. Customer Analytics in Python
+#### 9. Git and Github - 365 Careers (March 2020)
+          Working knowledge and intuition.
+#### 10.  Web Scraping and API Fundamentals in Python - 365 Data Science (April 2020)
+          Requests, BeautifulSoup, requests-html.
+#### 11. Customer Analytics in Python - 365 Data Science (April 2020)
           Marketing Data Analysis: Customer Segmentation (KNN), Price Purchase Analytics using Price Elasticity and Cross-Price Elasticity to set the best price. Deploying Deep Learning model to predict sales conversions.
 
 # Currently working on:
@@ -45,4 +45,4 @@ In chronological order, completed:
           Building and deployment of interactive dashboards to a web-app on Heroku.
 #### 3.	Hands-On Machine Learning with sk-learn, Keras and Tensorflow - Book
 #### 4.	The Data Science Course 2020: Complete Data Science Bootcamp  – Udemy
-          In depth Mathematics, Statistics, and Business cases for Deep Learning. Tableau & Statsmodels.
+          In depth Mathematics, Statistics, and Business cases for Deep Learning using Tableau, Statsmodels and Tensorflow2.
