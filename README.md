@@ -1,5 +1,4 @@
-# My-Data-Science-Curriculum
-The path I have taken towards Data Science. 
+# My-Data-Science-Curriculum: The path I have taken towards Data Science. 
 
 The completed certifications are posted to my Linked-in profile under "Licenses & Certifications":
 https://www.linkedin.com/in/jean-carlo-bejaran
