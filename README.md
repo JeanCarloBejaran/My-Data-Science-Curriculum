@@ -1,6 +1,9 @@
 # My-Data-Science-Curriculum
 The path I have taken towards Data Science. 
 
+The completed certifications are posted to my Linked-in profile:
+https://www.linkedin.com/in/jean-carlo-bejaran
+
 # Context: My Starting Point
 
 **a.)** I had a statistical framework for working with data from my energy engineering background at Penn State.
