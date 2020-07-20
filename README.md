@@ -10,8 +10,8 @@ The path I have taken towards Data Science.
 **c.)** My programming skills were my weakest link at this point, having used C# for an introductory course in college and some MatLab.
 
 
-# My Data Science Curriculum: 0 to 1,250+ tracked hours							
-                                                     (updated April.26.2020)
+# My Data Science Curriculum: 0 to 1,350+ tracked hours							
+                                                     (updated June.26.2020)
 
 
 In chronological order, completed: 					
@@ -39,10 +39,14 @@ In chronological order, completed:
           Marketing Data Analysis: Customer Segmentation (KNN), Price Purchase Analytics using Price Elasticity and Cross-Price Elasticity to set the best price. Deploying Deep Learning model to predict sales conversions.
 
 # Currently working on:
-#### 1. Marketing Data Analysis Portfolio Project - Self
+#### 1. AWS Machine Learning Foundations Course - Udacity
+          Software Engineering, Object Oriented Programming, Clean & Modular Code, Production-Ready Code, AWS.
+#### 2. Marketing Data Analysis Portfolio Project - Self
           Data Cleaning, Exploration, Reporting, Recommendations, Deployed predictive model. 
-#### 2.	Interactive Python Dashboards with Plotly and Dash. – Udemy
+          
+# Next in line:          
+#### 1.	Interactive Python Dashboards Apps with Plotly and Dash. – Udemy
           Building and deployment of interactive dashboards to a web-app on Heroku.
-#### 3.	Hands-On Machine Learning with sk-learn, Keras and Tensorflow - Book
-#### 4.	The Data Science Course 2020: Complete Data Science Bootcamp  – Udemy
+#### 2.	Hands-On Machine Learning with sk-learn, Keras and Tensorflow - Book
+#### 3.	The Data Science Course 2020: Complete Data Science Bootcamp  – Udemy
           In depth Mathematics, Statistics, and Business cases for Deep Learning using Tableau, Statsmodels and Tensorflow2.
